@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="nEXBOX">
+    <test name="nEXBOX_TestCase1">
+        <classes>
+
+            <class name="com.TestCase.Login_TestCase_Folder.Login_TestCase"></class>
+        </classes>
+    </test>
+</suite>

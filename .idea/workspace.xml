@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="405f988d-10c3-4222-b7b7-0263bc589a29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Driver/chromedriver (3).exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/junitreports/TEST-com.TestCase.Login_TestCase_Folder.Login_TestCase.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/nEXBOX/nEXBOX_TestCase1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/nEXBOX/nEXBOX_TestCase1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/nEXBOX/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/nEXBOX_TestCase1.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OutPut/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com_nexbox_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/ConfigarationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/Screenshot_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/OR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/TestData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/PageObject/Email/SendEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/PageObject/Loginpage/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/TestCase/Email_TestCase_Folder/Email_TestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/TestCase/Login_TestCase_Folder/Login_TestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/com_nexbox_demo.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/OR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TestData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/ConfigarationManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/DriverManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/Screenshot_File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/TestBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/com_nexbox_demo.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/PageObject/Email/SendEmail$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/PageObject/Email/SendEmail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/PageObject/Loginpage/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/TestCase/Email_TestCase_Folder/Email_TestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/TestCase/Login_TestCase_Folder/Login_TestCase.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1VcmCEAartNFFs4CHFSnD5o4EkS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Features" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\com_nexbox_demo\src\main\java\Features" />
+      <recent name="D:\com_nexbox_demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.stepDefination" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.emailable-report.html">
+    <configuration name="Test_Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com_nexbox_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TestCase.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TestCase.Runner" />
+      <option name="MAIN_CLASS_NAME" value="com.TestCase.Runner.Test_Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="emailable-report.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/com_nexbox_demo/OutPut/emailable-report.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="D:/com_nexbox_demo/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com_nexbox_demo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="D:\com_nexbox_demo\OutPut" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login_TestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com_nexbox_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.TestCase.Login_TestCase_Folder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.TestCase.Login_TestCase_Folder" />
+      <option name="MAIN_CLASS_NAME" value="com.TestCase.Login_TestCase_Folder.Login_TestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.emailable-report.html" />
+      <item itemvalue="JUnit.Test_Runner" />
+      <item itemvalue="TestNG.D:/com_nexbox_demo/TestNG.xml" />
+      <item itemvalue="TestNG.Login_TestCase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.emailable-report.html" />
+        <item itemvalue="TestNG.D:/com_nexbox_demo/TestNG.xml" />
+        <item itemvalue="JUnit.Test_Runner" />
+        <item itemvalue="TestNG.Login_TestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="405f988d-10c3-4222-b7b7-0263bc589a29" name="Default Changelist" comment="" />
+      <created>1577560627359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577560627359</updated>
+      <workItem from="1577560633758" duration="19522000" />
+      <workItem from="1577586339016" duration="1622000" />
+      <workItem from="1577684869699" duration="1410000" />
+      <workItem from="1577700251969" duration="572000" />
+      <workItem from="1577770853659" duration="8206000" />
+      <workItem from="1577925692609" duration="4452000" />
+      <workItem from="1577992374275" duration="4179000" />
+      <workItem from="1578001473733" duration="2380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="90" width="816" height="727" key="#Intentions" timestamp="1577577050928">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="90" width="816" height="727" key="#Intentions/0.0.1600.860@0.0.1600.860" timestamp="1577577050928" />
+    <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577574335637">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1577574335637" />
+    <state x="566" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577774233960">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="566" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1577774233960" />
+    <state x="512" y="358" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1577775208222">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="512" y="358" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860@0.0.1600.860" timestamp="1577775208222" />
+    <state x="601" y="298" width="397" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577994217786">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="601" y="298" width="397" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1577994217786" />
+    <state x="601" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1577565652840">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="601" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1600.860@0.0.1600.860" timestamp="1577565652840" />
+    <state x="530" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577775057470">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1577775057470" />
+    <state x="403" y="27" key="CommitChangelistDialog2" timestamp="1578007234688">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="403" y="27" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578007234688" />
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1577560674775">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1577560674775" />
+    <state width="1556" height="271" key="GridCell.Tab.0.bottom" timestamp="1577994987158">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="271" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1577994987158" />
+    <state width="1556" height="271" key="GridCell.Tab.0.center" timestamp="1577994987158">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="271" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1577994987158" />
+    <state width="1556" height="271" key="GridCell.Tab.0.left" timestamp="1577994987156">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="271" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1577994987156" />
+    <state width="1556" height="271" key="GridCell.Tab.0.right" timestamp="1577994987158">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="271" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1577994987158" />
+    <state x="380" y="167" key="IDE.errors.dialog" timestamp="1577560786603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="167" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1577560786603" />
+    <state x="330" y="87" key="Maven.ArtifactSearchDialog" timestamp="1577776179489">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="87" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1577776179489" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1578007363266">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578007363266" />
+    <state x="507" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1578001473810">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578001473810" />
+    <state x="611" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578007244101">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="611" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1578007244101" />
+    <state x="92" y="92" width="1416" height="676" key="dock-window-1" timestamp="1577775353768">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="dock-window-1/0.0.1600.860@0.0.1600.860" timestamp="1577775353768" />
+    <state x="515" y="232" key="git4idea.merge.GitPullDialog" timestamp="1578007291443">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="515" y="232" key="git4idea.merge.GitPullDialog/0.0.1600.860@0.0.1600.860" timestamp="1578007291443" />
+  </component>
+</project>
