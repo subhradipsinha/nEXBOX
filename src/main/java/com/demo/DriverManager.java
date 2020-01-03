@@ -23,7 +23,7 @@ public class DriverManager extends ConfigarationManager {
 
 //            WebElement frm = driver.findElement(By.xpath("//iframe[@tabindex='0']"));
 //    driver.switchTo().frame(frm); using Frame
-            System.setProperty("webdriver.chrome.driver", "D:\\com_nexbox_demo\\Driver\\chromedriver (3).exe");
+            System.setProperty("webdriver.chrome.driver", "Driver/chromedriver (3).exe");
             driver = new ChromeDriver();
             driver.manage().window().maximize();
         }

@@ -2,71 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="405f988d-10c3-4222-b7b7-0263bc589a29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Driver/chromedriver (3).exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/junitreports/TEST-com.TestCase.Login_TestCase_Folder.Login_TestCase.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/nEXBOX/nEXBOX_TestCase1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/nEXBOX/nEXBOX_TestCase1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/nEXBOX/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/nEXBOX_TestCase1.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com_nexbox_demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/ConfigarationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/Screenshot_File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/OR.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/TestData.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/PageObject/Email/SendEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/PageObject/Loginpage/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/TestCase/Email_TestCase_Folder/Email_TestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/TestCase/Login_TestCase_Folder/Login_TestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/com_nexbox_demo.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/OR.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/TestData.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/ConfigarationManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/DriverManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/Screenshot_File.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/TestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/com_nexbox_demo.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/PageObject/Email/SendEmail$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/PageObject/Email/SendEmail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/PageObject/Loginpage/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/TestCase/Email_TestCase_Folder/Email_TestCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/TestCase/Login_TestCase_Folder/Login_TestCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/DriverManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +52,7 @@
       <recent name="com.stepDefination" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.emailable-report.html">
+  <component name="RunManager" selected="TestNG.D:/com_nexbox_demo/TestNG.xml">
     <configuration name="Test_Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com_nexbox_demo" />
       <extension name="coverage">
@@ -177,8 +114,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.emailable-report.html" />
         <item itemvalue="TestNG.D:/com_nexbox_demo/TestNG.xml" />
+        <item itemvalue="JavaScript Debug.emailable-report.html" />
         <item itemvalue="JUnit.Test_Runner" />
         <item itemvalue="TestNG.Login_TestCase" />
       </list>
@@ -213,7 +150,7 @@
       <workItem from="1577770853659" duration="8206000" />
       <workItem from="1577925692609" duration="4452000" />
       <workItem from="1577992374275" duration="4179000" />
-      <workItem from="1578001473733" duration="2380000" />
+      <workItem from="1578001473733" duration="4191000" />
     </task>
     <servers />
   </component>
