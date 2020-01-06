@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="405f988d-10c3-4222-b7b7-0263bc589a29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/TestCase/Login_TestCase_Folder/Login_TestCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/com_nexbox_demo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/com_nexbox_demo.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,12 +152,25 @@
       <workItem from="1577770853659" duration="8206000" />
       <workItem from="1577925692609" duration="4452000" />
       <workItem from="1577992374275" duration="4179000" />
-      <workItem from="1578001473733" duration="4191000" />
+      <workItem from="1578001473733" duration="6750000" />
+      <workItem from="1578291875187" duration="1147000" />
     </task>
+    <task id="LOCAL-00001" summary="2nd commit">
+      <created>1578011972879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578011972879</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="90" width="816" height="727" key="#Intentions" timestamp="1577577050928">
@@ -186,10 +201,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1577775057470" />
-    <state x="403" y="27" key="CommitChangelistDialog2" timestamp="1578007234688">
+    <state x="403" y="27" key="CommitChangelistDialog2" timestamp="1578011971367">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="403" y="27" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578007234688" />
+    <state x="403" y="27" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578011971367" />
     <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1577560674775">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -218,14 +233,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="330" y="87" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1577776179489" />
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1578007363266">
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1578011990249">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578007363266" />
-    <state x="507" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1578001473810">
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578011990249" />
+    <state x="507" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1578344706421">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="507" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578001473810" />
+    <state x="507" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578344706421" />
     <state x="611" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578007244101">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

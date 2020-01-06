@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="2" ignored="0" total="4" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="nEXBOX" duration-ms="60918" started-at="2020-01-02T19:56:28Z" finished-at="2020-01-02T19:57:29Z">
+  <suite name="nEXBOX" duration-ms="52165" started-at="2020-01-06T21:06:47Z" finished-at="2020-01-06T21:07:40Z">
     <groups>
     </groups>
-    <test name="nEXBOX_TestCase1" duration-ms="60918" started-at="2020-01-02T19:56:28Z" finished-at="2020-01-02T19:57:29Z">
+    <test name="nEXBOX_TestCase1" duration-ms="52165" started-at="2020-01-06T21:06:47Z" finished-at="2020-01-06T21:07:40Z">
       <class name="com.TestCase.Login_TestCase_Folder.Login_TestCase">
-        <test-method status="PASS" signature="Url_Hit()[pri:2, instance:com.TestCase.Login_TestCase_Folder.Login_TestCase@4f7d0008]" name="Url_Hit" duration-ms="19789" started-at="2020-01-02T19:56:28Z" finished-at="2020-01-02T19:56:48Z">
+        <test-method status="PASS" signature="Url_Hit()[pri:2, instance:com.TestCase.Login_TestCase_Folder.Login_TestCase@553f17c]" name="Url_Hit" duration-ms="25378" started-at="2020-01-06T21:06:47Z" finished-at="2020-01-06T21:07:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Url_Hit -->
-        <test-method status="FAIL" signature="Without_Password()[pri:3, instance:com.TestCase.Login_TestCase_Folder.Login_TestCase@4f7d0008]" name="Without_Password" duration-ms="17175" started-at="2020-01-02T19:56:48Z" finished-at="2020-01-02T19:57:05Z">
+        <test-method status="FAIL" signature="Without_Password()[pri:3, instance:com.TestCase.Login_TestCase_Folder.Login_TestCase@553f17c]" name="Without_Password" duration-ms="11065" started-at="2020-01-06T21:07:13Z" finished-at="2020-01-06T21:07:24Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[WithOut Password Successfully login...== expected [true] but found [false]]]>
@@ -21,7 +21,7 @@
 at org.testng.Assert.fail(Assert.java:96)
 at org.testng.Assert.failNotEquals(Assert.java:776)
 at org.testng.Assert.assertTrue(Assert.java:44)
-at com.PageObject.Loginpage.LoginPage.UserName(LoginPage.java:33)
+at com.PageObject.Loginpage.LoginPage.UserName(LoginPage.java:45)
 at com.TestCase.Login_TestCase_Folder.Login_TestCase.Without_Password(Login_TestCase.java:15)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -53,7 +53,7 @@ at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Without_Password -->
-        <test-method status="FAIL" signature="Without_UserName()[pri:4, instance:com.TestCase.Login_TestCase_Folder.Login_TestCase@4f7d0008]" name="Without_UserName" duration-ms="13550" started-at="2020-01-02T19:57:05Z" finished-at="2020-01-02T19:57:19Z">
+        <test-method status="FAIL" signature="Without_UserName()[pri:4, instance:com.TestCase.Login_TestCase_Folder.Login_TestCase@553f17c]" name="Without_UserName" duration-ms="8120" started-at="2020-01-06T21:07:24Z" finished-at="2020-01-06T21:07:32Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[WithOut UserName Successfully login...== expected [true] but found [false]]]>
@@ -63,7 +63,7 @@ at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
 at org.testng.Assert.fail(Assert.java:96)
 at org.testng.Assert.failNotEquals(Assert.java:776)
 at org.testng.Assert.assertTrue(Assert.java:44)
-at com.PageObject.Loginpage.LoginPage.Password_Data(LoginPage.java:54)
+at com.PageObject.Loginpage.LoginPage.Password_Data(LoginPage.java:70)
 at com.TestCase.Login_TestCase_Folder.Login_TestCase.Without_UserName(Login_TestCase.java:19)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -95,7 +95,7 @@ at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Without_UserName -->
-        <test-method status="PASS" signature="With_Username_Password()[pri:5, instance:com.TestCase.Login_TestCase_Folder.Login_TestCase@4f7d0008]" name="With_Username_Password" duration-ms="10349" started-at="2020-01-02T19:57:19Z" finished-at="2020-01-02T19:57:29Z">
+        <test-method status="PASS" signature="With_Username_Password()[pri:5, instance:com.TestCase.Login_TestCase_Folder.Login_TestCase@553f17c]" name="With_Username_Password" duration-ms="7462" started-at="2020-01-06T21:07:32Z" finished-at="2020-01-06T21:07:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- With_Username_Password -->
