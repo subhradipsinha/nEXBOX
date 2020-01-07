@@ -4,10 +4,14 @@ import com.sun.java.swing.plaf.windows.WindowsBorders;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import sun.security.krb5.Config;
+
+import java.net.URL;
 
 public class DriverManager extends ConfigarationManager {
     //public static ConfigarationManager configarationManager = new ConfigarationManager();
@@ -26,10 +30,13 @@ public class DriverManager extends ConfigarationManager {
             System.setProperty("webdriver.chrome.driver", "D:\\com_nexbox_demo\\Driver\\chromedriver.exe");
             driver = new ChromeDriver();
             driver.manage().window().maximize();
+
+
         }
         driver.get(Url);
         System.out.println("URL HIT");
         WebDriverWait wait=new WebDriverWait(driver, 20);
         System.out.println("URL Open");
+
     }
 }

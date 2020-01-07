@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="405f988d-10c3-4222-b7b7-0263bc589a29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/TestCase/Login_TestCase_Folder/Login_TestCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/junitreports/TEST-com.TestCase.Login_TestCase_Folder.Login_TestCase.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/junitreports/TEST-com.TestCase.Login_TestCase_Folder.Login_TestCase.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/nEXBOX/nEXBOX_TestCase1.html" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/nEXBOX/nEXBOX_TestCase1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/nEXBOX/nEXBOX_TestCase1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/nEXBOX/nEXBOX_TestCase1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/old/nEXBOX/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/old/nEXBOX/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/old/nEXBOX/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/old/nEXBOX/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/DriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/demo/DriverManager.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +165,8 @@
       <workItem from="1578001473733" duration="6750000" />
       <workItem from="1578291875187" duration="1147000" />
       <workItem from="1578344706430" duration="872000" />
-      <workItem from="1578347001460" duration="506000" />
+      <workItem from="1578347001460" duration="5412000" />
+      <workItem from="1578357175395" duration="211000" />
     </task>
     <task id="LOCAL-00001" summary="2nd commit">
       <created>1578011972879</created>
@@ -176,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578347342047</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5th commit">
+      <created>1578347555558</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578347555558</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +206,8 @@
     <MESSAGE value="2nd commit" />
     <MESSAGE value="3rd commit" />
     <MESSAGE value="4th commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="4th commit" />
+    <MESSAGE value="5th commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="90" width="816" height="727" key="#Intentions" timestamp="1577577050928">
@@ -217,46 +238,46 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1577775057470" />
-    <state x="403" y="27" key="CommitChangelistDialog2" timestamp="1578347339603">
+    <state x="403" y="27" key="CommitChangelistDialog2" timestamp="1578347554743">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="403" y="27" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578347339603" />
+    <state x="403" y="27" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578347554743" />
     <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1577560674775">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1577560674775" />
-    <state width="1556" height="271" key="GridCell.Tab.0.bottom" timestamp="1578346617477">
+    <state width="1556" height="271" key="GridCell.Tab.0.bottom" timestamp="1578352630492">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="271" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578346617477" />
-    <state width="1556" height="271" key="GridCell.Tab.0.center" timestamp="1578346617477">
+    <state width="1556" height="271" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578352630492" />
+    <state width="1556" height="271" key="GridCell.Tab.0.center" timestamp="1578352630492">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="271" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578346617477" />
-    <state width="1556" height="271" key="GridCell.Tab.0.left" timestamp="1578346617477">
+    <state width="1556" height="271" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578352630492" />
+    <state width="1556" height="271" key="GridCell.Tab.0.left" timestamp="1578352630492">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="271" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578346617477" />
-    <state width="1556" height="271" key="GridCell.Tab.0.right" timestamp="1578346617477">
+    <state width="1556" height="271" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578352630492" />
+    <state width="1556" height="271" key="GridCell.Tab.0.right" timestamp="1578352630492">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="271" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578346617477" />
+    <state width="1556" height="271" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578352630492" />
     <state x="380" y="167" key="IDE.errors.dialog" timestamp="1577560786603">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="380" y="167" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1577560786603" />
-    <state x="330" y="87" key="Maven.ArtifactSearchDialog" timestamp="1577776179489">
+    <state x="330" y="87" key="Maven.ArtifactSearchDialog" timestamp="1578351863144">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="330" y="87" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1577776179489" />
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1578347346977">
+    <state x="330" y="87" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1578351863144" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1578347557618">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578347346977" />
-    <state x="507" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1578347010206">
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578347557618" />
+    <state x="507" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1578357202842">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="507" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578347010206" />
+    <state x="507" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578357202842" />
     <state x="611" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578007244101">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
